@@ -1,0 +1,7 @@
+Before running run.sh change path to where the jar file is:
+
+Example:
+From:
+java -jar /home/...../GenerateDeckOfCardsPDF.jar
+To:
+java -jar /home/username/Desktop/GenerateDeckOfCardsPDF.jar

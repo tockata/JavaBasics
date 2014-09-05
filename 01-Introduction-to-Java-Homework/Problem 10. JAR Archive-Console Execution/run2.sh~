@@ -1,0 +1,2 @@
+#!/bin/bash
+java -cp /home/toc/SoftUni/Java_Basics_Sept_2014/IntrToJava-Homework/Problem 10. JAR Archive-Console Execution/GenerateDeckOfCardsPDF.jar _09_GeneratePDF

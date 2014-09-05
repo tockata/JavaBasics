@@ -1,0 +1,7 @@
+From the folder ../src I typed the commands:
+
+1. To compile the program _06_SumTwoNumbers.java:
+javac _06_SumTwoNumbers.java
+
+2. To execute the program javac _06_SumTwoNumbers.class:
+java _06_SumTwoNumbers
